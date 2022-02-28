@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "albumName": "Liked Songs",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "id": 1,
+    "albumName": "Weekly Discover",
+    "gorsel": "https://newjams-images.scdn.co/v3/discover-weekly/8uFLwul9OSoO_xvaNT3g1CHpPV1tL5SEsAKlNLuiUaNulAJJH8sHFLXsNefCj0shp3L0YPAv0_YnWezDyMmco3XWwEopDjCnG9PpVjP8ytU=/NzA6NTQ6OTBUNTAtNDAtMQ==/default"
+  },
+  {
+    "id": 2,
+    "albumName": "Release Radar",
+    "gorsel": "https://newjams-images.scdn.co/v3/release-radar/_default/"
+  },
+  {
+    "id": 3,
+    "albumName": "Daily Mix 1",
+    "gorsel": "https://dailymix-images.scdn.co/v2/img/ca8a27be0f106897dbade3c7adbec4a3a9d10caa/1/fr/large"
+  },
+  {
+    "id": 4,
+    "albumName": "Daily Mix 2",
+    "gorsel": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebd8b9980db67272cb4d2c3daf/2/en/large"
+  },
+  {
+    "id": 5,
+    "albumName": "Daily Mix 3",
+    "gorsel": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eba00b11c129b27a88fc72f36b/3/en/large"
+  },
+  {
+    "id": 6,
+    "albumName": "Daily Mix 4",
+    "gorsel": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebd42a27db3286b58553da8858/4/en/large"
+  },
+  {
+    "id": 7,
+    "albumName": "Daily Mix 5",
+    "gorsel": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebcf4a1dced6258416eb219e36/5/en/large"
+  }
+]
